@@ -1,0 +1,2 @@
+npx create-next-app@latest groweasy-frontend-assignment --typescript
+cd groweasy-frontend-assignment
