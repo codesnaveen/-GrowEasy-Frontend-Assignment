@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Ad 1",
+        "description": "This is the first ad",
+        "cta": "Learn More",
+        "image": "/images/ad1.png",
+        "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png"
+    },
+    {
+        "title": "Ad 2",
+        "description": "This is the second ad",
+        "cta": "Shop Now",
+        "image": "/images/ad2.png",
+        "background": "https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/5/square.png"
+    }
+]
